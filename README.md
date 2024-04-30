@@ -1,5 +1,7 @@
 ### Hi there 👋
-## This is me
+## I am 
+(my_images/Binance_chart.png) 
+## developer
 
 <div align="center">
   
