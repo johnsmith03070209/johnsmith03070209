@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <div align="center">
+
+  <h1> Hi there 🚀 </h1>
   
   <h2 align="left">Here is John Smith. I am</h2>
 
@@ -12,5 +13,5 @@
   
   ![Bitcoin to the Moon 🚀🌕📈 $BTC (Bitcoin) and Binance Coin ($BNB) will soon reach a new all-time high, let me explain why I think that Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Bull market bullish Trend](my_images/Binance_chart.png)
 
-  <h2>🚀Thank you🚀</h2>
+  <h2>Thank you 👋 </h2>
 </div>
