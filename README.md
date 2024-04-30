@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am 
-(my_images/blockchain.png) 
+(my_images/blockchain.jpg) 
 ## developer
 
 <div align="center">
